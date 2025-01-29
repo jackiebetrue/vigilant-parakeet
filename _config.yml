@@ -1,0 +1,12 @@
+repository: fredgibbs/xanthan
+
+baseurl: /xanthan/
+
+essay-images: /essays/images
+
+defaults:
+  -
+    scope:
+      path: "essays"
+    values:
+      layout: "base"
