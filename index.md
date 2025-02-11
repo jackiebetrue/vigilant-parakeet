@@ -8,16 +8,14 @@ date: 2024-12-02
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Xanthan chemical structure"
-  image-url="Xanthan.svg"
-  source-url="https://commons.wikimedia.org/wiki/File:Xanthan.svg"
+  caption="Jesper Ejsing's artistic rendition of Thyra"
+  image-url="JESPER EJSINGThyra.jpg"
+  source-url="https://github.com/jackiebetrue/vigilant-parakeet/blob/main/assets/images/JESPER%20EJSINGThyra.jpg?raw=true"
 %}
 
 
-# Your home page
+# I'm just messing around!
 
-This is your home page! It's the `index.md` file in the repository.
+Wow. I sure hope this works. 
 
-It is written using Markdown so that the underlying code is much easier to edit that raw HTML.
-
-For more information about setting up your site and adding features to your pages, see the documentation under the GUIDES tab.
+I plan on using this site to organize and display my MA thesis in a virtual format. The working title of the thesis is ***"Secured Through Stone: The Artifactual Afterlife of the Viking Age Queen Thrya"*** The first chapter explores the textual evidence relating to Thyra, before moving on to the material evidence in the second chapter, before wrapping up with a view of Thyra's legacy from the vantage point of modern cultural institutions such as museums.
