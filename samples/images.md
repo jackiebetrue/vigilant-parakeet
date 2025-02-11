@@ -6,8 +6,8 @@ date: 2024-10-24
 
 {% include jumbotron.html
   height="60"
-  image-url="/assets/bg-images/pano-1.jpg"
-  title="Image Examples"
+  image-url="https://github.com/jackiebetrue/vigilant-parakeet/blob/main/assets/bg-images/JellingPano.jpg?raw=true"
+  title="OooooOOh AaaaaAAhhh"
 %}
 
 
@@ -17,29 +17,25 @@ The most basic functionality is easily placing images in your story, that are "f
 {% include figure.html
   class="img-right"
   width="60%"
-  caption="What a nice view"
-  abs-image-url="/assets/bg-images/hike-1.jpg"
+  caption="Here I am!"
+  abs-image-url="/assets/bg-images/DR41.jpg"
 %}
 
 ### You can have them off to the right.
 
-Etiam finibus risus et sagittis suscipit. Praesent id nisi metus. Vivamus odio ligula, iaculis vestibulum convallis id, vehicula at justo. Sed vestibulum elit at ante pellentesque pretium. Vestibulum euismod tempus sem sit amet scelerisque. Curabitur hendrerit fermentum rutrum. Nam suscipit dictum purus, non rhoncus dui sodales nec. Etiam convallis arcu metus, ut cursus risus porttitor sit amet. Duis ut sapien varius libero efficitur vehicula. Sed id massa id elit ullamcorper feugiat. In hac habitasse platea dictumst.
-
-In hac habitasse platea dictumst. Sed ultrices venenatis nunc et eleifend. Praesent sapien enim, porta egestas tortor vitae, imperdiet mollis velit. Cras quis quam lacus. Cras ac felis sed nunc bibendum rutrum vitae at massa. Mauris id vestibulum dolor. Vivamus iaculis sollicitudin purus sit amet gravida. Aliquam erat diam, pretium eget urna at, pretium bibendum nunc. Nullam finibus aliquet diam, in ullamcorper odio vulputate tincidunt. Nam mauris felis, feugiat porta molestie ac, eleifend id quam. Suspendisse varius erat odio, et fermentum libero elementum sit amet. Morbi maximus justo fringilla facilisis tincidunt. Curabitur pretium nulla mauris, vel condimentum leo malesuada non. Cras purus erat, malesuada suscipit tempor sit amet, rhoncus et sapien. Fusce at blandit urna.
+I deleted a bunch of text here just because I could!
 
 
 {% include figure.html
   class="img-left"
-  width="30%"
-  caption="What a nice view, again"
-  abs-image-url="/assets/bg-images/hike-1.jpg"
+  width="45%"
+  caption="Me again, with Thyra's runestone at Jelling"
+  abs-image-url="/assets/bg-images/DR41.jpg"
 %}
 
-### You can have them off to the left. You can control the width.
+### I changed the width of this photo. Wow!
 
-Etiam finibus risus et sagittis suscipit. Praesent id nisi metus. Vivamus odio ligula, iaculis vestibulum convallis id, vehicula at justo. Sed vestibulum elit at ante pellentesque pretium. Vestibulum euismod tempus sem sit amet scelerisque. Curabitur hendrerit fermentum rutrum. Nam suscipit dictum purus, non rhoncus dui sodales nec. Etiam convallis arcu metus, ut cursus risus porttitor sit amet. Duis ut sapien varius libero efficitur vehicula. Sed id massa id elit ullamcorper feugiat. In hac habitasse platea dictumst.
-
-In hac habitasse platea dictumst. Sed ultrices venenatis nunc et eleifend. Praesent sapien enim, porta egestas tortor vitae, imperdiet mollis velit. Cras quis quam lacus. Cras ac felis sed nunc bibendum rutrum vitae at massa. Mauris id vestibulum dolor. Vivamus iaculis sollicitudin purus sit amet gravida. Aliquam erat diam, pretium eget urna at, pretium bibendum nunc. Nullam finibus aliquet diam, in ullamcorper odio vulputate tincidunt. Nam mauris felis, feugiat porta molestie ac, eleifend id quam. Suspendisse varius erat odio, et fermentum libero elementum sit amet. Morbi maximus justo fringilla facilisis tincidunt. Curabitur pretium nulla mauris, vel condimentum leo malesuada non. Cras purus erat, malesuada suscipit tempor sit amet, rhoncus et sapien. Fusce at blandit urna.
+Stuff and things
 
 
 ### Jumbotron Images
@@ -47,7 +43,7 @@ If an smaller inline image isn't sufficient, go jumbo! Make the image the whole 
 
 {% include jumbotron.html
   height="50"
-  image-url="/assets/bg-images/hike-2.jpg"
+  image-url="/assets/bg-images/DR41.jpg"
   title=""
 %}
 
@@ -56,9 +52,11 @@ If an smaller inline image isn't sufficient, go jumbo! Make the image the whole 
 ### Revealed images
 Fixed images seem to move along with scrolling, like the one above, but sometimes it's fun to have a background image be revealed as the reader scrolls down the page.
 
-Nunc id urna eget nunc hendrerit aliquam. Fusce maximus eleifend ipsum, nec aliquet ante vestibulum eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat. Nullam porta blandit tellus, vitae porta odio ultricies a. Integer iaculis euismod feugiat. Etiam ipsum ipsum, pulvinar id semper et, laoreet ac felis. Ut fermentum cursus augue ac feugiat. Nullam convallis vitae sapien in condimentum. Maecenas at vulputate turpis, tempor faucibus dui. Sed quis volutpat elit, commodo mollis ligula. Sed id velit lacus. Mauris et pellentesque justo.
 
-In laoreet, risus ac porttitor congue, libero eros ullamcorper nisl, vel volutpat est nunc sed nisi. Integer dolor ipsum, aliquam ac fermentum dapibus, accumsan eu tortor. Etiam laoreet tellus a dignissim porta. Vivamus et sapien nec urna mollis placerat id nec neque. Phasellus mattis non arcu vitae ultrices. Etiam a posuere ipsum. Nam nunc ex, aliquet eu consequat et, scelerisque quis lorem. Suspendisse sapien tortor, rutrum vitae sollicitudin vel, gravida ut nunc. Fusce non egestas lacus. Maecenas dictum commodo ultricies.
+
+
+
+
 
 Keep scrolling! This image will set around until the whole image is visible, but you can control how much is visible before the text box starts to scroll up.
 
@@ -66,7 +64,7 @@ Keep scrolling! This image will set around until the whole image is visible, but
 
 {% include bg.html
   height="100"
-  image-url="/assets/bg-images/image_3.jpg"
+  image-url="/assets/bg-images/RL_CC.jpg"
 %}
 
 
