@@ -16,7 +16,7 @@
     margin: 0;
     padding: 0;
     height: 100vh;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Arial Narrow', sans-serif;
     line-height: 1.4em;
     background-color: #fefefe;
     font-size: 15px;
@@ -90,7 +90,7 @@ BACKGROUNDs
   grid-column: 1;
   position: sticky;
   top: 0;
-  background-image: url("/xanthan/assets/bg-images/image_3.jpg");
+  background-image: url("/vigilant-parakeet/assets/bg-images/image_3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -162,7 +162,7 @@ TYPOGRAPHY
 *****************************************************/
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Georgia', sans-serif;
+  font-family: 'Arial Narrow', sans-serif;
   text-align:left;
   margin: 3rem 0 .4rem 0;
 }
@@ -174,7 +174,7 @@ h1 {
 }
 
 .home-title h1 {
-  font-family: 'Abril Fatface', sans-serif;
+  font-family: 'Arial Narrow', sans-serif;
   color:#fff;
   font-size: 3rem;
   margin-top: -1.2em;
@@ -207,7 +207,7 @@ hr {
 }
 
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arial Narrow', sans-serif;
   line-height: 1.6em;
   margin-bottom: 1.5em;
 }
